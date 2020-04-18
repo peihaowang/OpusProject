@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>images/stroke.png</file>
+        <file>main.cpp</file>
+        <file>MainWindow.cpp</file>
+        <file>MainWindow.h</file>
+        <file>ScribbleArea.cpp</file>
+        <file>ScribbleArea.h</file>
+        <file>images/img_user.png</file>
+        <file>images/img_diary@2x.png</file>
+        <file>images/img_restart@2x.png</file>
+        <file>images/img_resume@2x.png</file>
+        <file>images/img_settings@2x.png</file>
+        <file>images/img_share@2x.png</file>
+        <file>images/img_stop@2x.png</file>
+        <file>sounds/opus.mp3</file>
+        <file>diary.qml</file>
+        <file>images/img_diary1.jpg</file>
+        <file>images/img_diary2.jpg</file>
+        <file>images/img_diary3.jpg</file>
+        <file>images/img_diary4.jpg</file>
+        <file>images/img_diary5.jpg</file>
+        <file>images/img_diary6.jpg</file>
+        <file>images/img_diary7.jpg</file>
+        <file>images/img_airdrop@2x.png</file>
+        <file>images/img_facebook@2x.png</file>
+        <file>images/img_instagram@2x.png</file>
+        <file>images/img_link@2x.png</file>
+        <file>images/img_twitter@2x.png</file>
+        <file>share.qml</file>
+    </qresource>
+</RCC>
